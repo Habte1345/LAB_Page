@@ -12,7 +12,7 @@ title                    : "Water Footprint Lab"
 title_separator          : "-"
 name                     : &name "Dr. Mesfin Mekonnen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/water-footprint-lab/WFP-Lab.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Mesfin.jpeg"
-  name             : "Dr. Mesfin Mekonnen\n (Assistant Professor)"
+  avatar           : "Mesfin.png"
+  name             : "Dr. Mesfin Mekonnen\n (Ass. Professor)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
