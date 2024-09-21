@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-habtamu: "Mekonnen.png"
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
