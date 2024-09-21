@@ -8,7 +8,7 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
   gem 'tzinfo-data'
   gem 'tzinfo', '~> 1.2', '< 3.0'
-  gem 'tzinfo', '~> 1.2'
+
 end
 
 gem 'github-pages'
