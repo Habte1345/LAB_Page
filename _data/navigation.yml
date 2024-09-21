@@ -7,27 +7,24 @@
 main:
   - title: "Welcome to the Lab"
     url: /Welcome to the Lab/
+  - title: "News"
+    url: /News/
+  - title: "Team members"
+    url: /Team members/
     children:
       - title: "Alice Johnson"
         url: /team-members/alice-johnson
         email: alice.johnson@example.com
-        sex: female
-        avatar: Mekonnen.jpg
-
-  - title: "News"
-    url: /News/
-
-  - title: "Team members"
-    url: /Team members/
-
+        avatar: alice_johnson.jpg
+      - title: "John Doe"
+        url: /team-members/john-doe
+        email: john.doe@example.com
+        avatar: john_doe.jpg
   - title: "Publications"
     url: /Publications/
-
   - title: "Positions"
     url: /Positions/
-
   - title: "Contact"
-    url: /Contact/
-
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /cv/
+  - title: "Guide"
+    url: /markdown/
