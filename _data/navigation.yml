@@ -7,7 +7,12 @@
 main:
   - title: "Welcome to the Lab"
     url: /Welcome to the Lab/
-
+    children:
+        - title: "Alice Johnson"
+          url: /team-members/alice-johnson
+          email: alice.johnson@example.com
+          sex: female
+          avatar: Mekonnen.jpg
   - title: "News"
     url: /News/    
 
