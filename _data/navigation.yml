@@ -9,8 +9,8 @@ main:
     url: /Welcome to the Lab/
   - title: "News"
     url: /News/
-  - title: "Team members"
-    url: /Team members/
+  - title: "Collaborators"
+    url: /Team Collaborators/
     children:
       - title: "Alice Johnson"
         url: /team-members/alice-johnson
@@ -22,8 +22,8 @@ main:
         avatar: john_doe.jpg
   - title: "Publications"
     url: /Publications/
-  - title: "Positions"
-    url: /Positions/
+  - title: "Stories"
+    url: /Stories/
   - title: "Contact"
     url: /cv/
   - title: "Guide"
